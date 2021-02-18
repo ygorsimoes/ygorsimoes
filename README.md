@@ -7,6 +7,4 @@ The gunpowder, treason and plot;
 I know of no reason, why the gunpowder treason
 Should ever be forgot. ❞
 
-##
-
 #### – V
