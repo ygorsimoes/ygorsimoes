@@ -37,7 +37,3 @@
         </a>
     </p>
 </p>
-
-<div align="center">
-    <img src="https://imgur.com/rilHVxA.png">
-</div>
