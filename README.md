@@ -46,5 +46,5 @@
 </p>
 
 <div align="center">
-    <img src="https://imgur.com/rilHVxA.png">
+    <img src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/city-red.png">
 </div>
