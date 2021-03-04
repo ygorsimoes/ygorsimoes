@@ -2,9 +2,6 @@
     <a href="#">
         <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygorsimoes&show_icons=true&theme=radical"/>
     </a>
-    <a href="#">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html&layout=compact&theme=radical"/>
-    </a>
 </p>
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
@@ -14,7 +11,14 @@
 - 🌱 I'm currently trying to specialize in C#
 - 🍺 In my spare time I usually turn beer and coffee into codes :)
 
+<p align="center">
+    <a href="#">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html&layout=compact&theme=radical"/>
+    </a>
+</p>
+
 <hr>
+
 <p align="center">
     <a href="https://www.instagram.com/ygorsimoesme">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-grey?style=flat-square&logo=instagram"/>
