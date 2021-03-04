@@ -1,5 +1,10 @@
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
+- 🎓 Graduating in Computer Engineering at UEMG
+- 🔐 Developer of tools focused on Information Security
+- 🌱 I'm currently trying to specialize in C#
+- 🍺 In my spare time I usually turn beer and coffee into codes :)
+
 <p align="center">
     <a href="#">
         <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygorsimoes&show_icons=true&theme=radical"/>
