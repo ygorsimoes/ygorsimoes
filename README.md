@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
 
 - 🎓 Graduating in Computer Engineering at UEMG
 - 🔐 Developer of tools focused on Information Security
