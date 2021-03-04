@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <a href="#">
         <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygorsimoes&show_icons=true&theme=radical"/>
     </a>
@@ -11,7 +11,7 @@
 - 🌱 I'm currently trying to specialize in C#
 - 🍺 In my spare time I usually turn beer and coffee into codes :)
 
-<div align="center">
+<div>
     <a href="#">
         <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html&layout=compact&theme=radical"/>
     </a>
