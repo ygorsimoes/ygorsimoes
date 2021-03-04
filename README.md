@@ -6,7 +6,7 @@
 
 <hr>
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="300"/>
 
 - 🎓 Graduating in Computer Engineering at UEMG
 - 🔐 Developer of tools focused on Information Security
