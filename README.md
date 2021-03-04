@@ -11,6 +11,7 @@
 - 🌱 I'm currently trying to specialize in C#
 - 🍺 In my spare time I usually turn beer and coffee into codes :)
 
+<br/>
 <div>
     <a href="#">
         <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html&layout=compact&theme=radical"/>
