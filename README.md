@@ -10,7 +10,7 @@
 
 - 🎓 Graduating in Computer Engineering at UEMG
 - 🔐 Developer of tools focused on Information Security
-- 🌱 I'm currently trying to specialize in C#
+- 🌱 I'm currently trying to specialize in C# and Go
 - 🍺 In my spare time I usually turn beer and coffee into codes :)
 
 <br/>
