@@ -16,7 +16,7 @@
 <br/>
 <div>
     <a href="#">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html,css&layout=compact&theme=radical"/>
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html,css,javascript&layout=compact&theme=radical"/>
     </a>
 </div>
 
