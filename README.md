@@ -1,11 +1,3 @@
-<div>
-    <a href="#">
-        <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygorsimoes&show_icons=true&theme=radical"/>
-    </a>
-</div>
-
-<hr>
-
 <img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="300"/>
 
 - 🎓 Graduating in Computer Engineering at UEMG
