@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="300"/>
+<img align="right" src="https://i.imgur.com/p5mjX2r.gif" width="300"/>
 
 - 🎓 Graduating in Computer Engineering at UEMG
 - 🔐 Developer of tools focused on Information Security
@@ -15,6 +15,7 @@
 <hr>
 
 <p align="center">
+	<img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="300"/>
     <a href="https://www.instagram.com/ygorsimoesme">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-grey?style=flat-square&logo=instagram"/>
     </a>
@@ -36,7 +37,3 @@
         </a>
     </p>
 </p>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/city-red.png">
-</div>
