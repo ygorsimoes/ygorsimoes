@@ -2,14 +2,19 @@
 
 <hr>
 
+<div align="center">
+    <li>⚙️ Graduando em Engenharia da Computação pela UEMG</li>
+    <li>🍺 Transformo café e cerveja em código na maior parte do tempo</li>
+    <li>🖥️ Estou me especializando na stack .NET (C#, ASP.NET, Azure)</li>
+</div>
+
+<hr>
+
 <img align="right" src="https://i.imgur.com/p5mjX2r.gif" width="300"/>
 
-- ⚙️ Graduando em Engenharia da Computação pela UEMG
-- 🍺 Transformo café e cerveja em código na maior parte do tempo
-- 🖥️ Estou me especializando na stack .NET (C#, ASP.NET, Azure)
-
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygorsimoes&show_icons=true&theme=tokyonight"/>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html,css,javascript&layout=compact&theme=tokyonight"/>
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygorsimoes&show_icons=true&theme=tokyonight"/>
+
 
 <!--
 <img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="300"/>
