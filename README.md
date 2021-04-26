@@ -1,22 +1,22 @@
-<img align="right" src="https://i.imgur.com/p5mjX2r.gif" width="300"/>
-
-- 🎓 Graduating in Computer Engineering at UEMG
-- 🔐 Developer of tools focused on Information Security
-- 🌱 I'm currently trying to specialize in C# and Go
-- 🍺 In my spare time I usually turn beer and coffee into codes :)
-
-<br/>
-<div>
-    <a href="#">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html,css,javascript&layout=compact&theme=radical"/>
-    </a>
-</div>
+<img src="https://i.imgur.com/y3L1nC9.gif" width="100%"/>
 
 <hr>
 
-<img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="300"/>
+<img align="right" src="https://i.imgur.com/p5mjX2r.gif" width="300"/>
 
-<br>
+- ⚙️ Graduando em Engenharia da Computação
+- 🍺 Transformo café e cerveja em código na maior parte do tempo
+- 🖥️ Estou me especializando na stack .NET (C#, ASP.NET, Azure)
+
+<div>
+    <a href="#">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html,css,javascript&layout=compact&theme=radical"/>
+        <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygorsimoes&show_icons=true&theme=tokyonight"/>
+    </a>
+</div>
+
+<!--
+<img align="right" src="https://raw.githubusercontent.com/ygorsimoes/ygorsimoes/master/images/computer-illustration.png" width="300"/>
 
 <p align="center">
     <a href="https://www.instagram.com/ygorsimoesme">
@@ -39,3 +39,4 @@
             <img alt="Telegram - Taverna dos Hackers" src="https://img.shields.io/badge/Telegram-Taverna Dos Hackers-blue?style=flat-circle-square&logo=telegram"/>
         </a>
 </p>
+-->
