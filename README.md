@@ -1,9 +1,10 @@
 <!-- <img src="https://i.imgur.com/y3L1nC9.gif" width="100%"/> -->
 
-<div align="center">
+<div align="right">
     <li>⚙️ Graduando em Engenharia da Computação pela UEMG</li>
     <li>🍺 Transformo café e cerveja em código na maior parte do tempo</li>
     <li>🖥️ Estou me especializando na stack .NET (C#, ASP.NET, Azure)</li>
+    <li>🧠 Desenvolvo ferramentas voltadas para área de Segurança da Informação</lib>
 </div>
 
 <hr>
