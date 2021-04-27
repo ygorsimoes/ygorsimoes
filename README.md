@@ -1,6 +1,6 @@
 <!-- <img src="https://i.imgur.com/y3L1nC9.gif" width="100%"/> -->
 
-<div align="right">
+<div align="left">
     <li>⚙️ Graduando em Engenharia da Computação pela UEMG</li>
     <li>🍺 Transformo café e cerveja em código na maior parte do tempo</li>
     <li>🖥️ Estou me especializando na stack .NET (C#, ASP.NET, Azure)</li>
