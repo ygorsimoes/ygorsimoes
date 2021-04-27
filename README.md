@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/y3L1nC9.gif" width="100%"/>
+<!-- <img src="https://i.imgur.com/y3L1nC9.gif" width="100%"/> <--
 
 <hr>
 
