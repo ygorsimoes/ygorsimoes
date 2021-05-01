@@ -1,6 +1,6 @@
 <!-- <img src="https://i.imgur.com/y3L1nC9.gif" width="100%"/> -->
 
-<h1>"Anarchy is the order!"</h1>
+<h1 align="center">“Talk is cheap. Show me the code.”</h1>
 
 <div align="left">
     <li>⚙️ Graduando em Engenharia da Computação pela UEMG</li>
@@ -9,7 +9,7 @@
     <li>🧠 Desenvolvo softwares voltados para área de Segurança da Informação</lib>
 </div>
 
-<hr>
+<h1></h1>
 
 <img align="right" src="https://i.imgur.com/p5mjX2r.gif" width="300"/>
 
