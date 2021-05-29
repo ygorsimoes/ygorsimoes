@@ -3,10 +3,10 @@
 <h1 align="center">“Talk is cheap. Show me the code.”</h1>
 
 <div align="left">
-    <li>⚙️ Graduando em Engenharia da Computação pela UEMG</li>
-    <li>🍺 Transformo café e cerveja em código na maior parte do tempo</li>
-    <li>🖥️ Estou me especializando na stack .NET (C#, ASP.NET, Azure)</li>
-    <li>🧠 Desenvolvo softwares voltados para área de Segurança da Informação</lib>
+    <li>⚙️ Graduating in Computer Engineering at UEMG</li>
+    <li>🍺 I convert coffee and beer into code most of the time</li>
+    <li>🖥️ I'm specializing in the .NET stack (C #, ASP.NET, Azure)</li>
+    <li>🧠 I develop software focused on Information Security</lib>
 </div>
 
 <h1></h1>
