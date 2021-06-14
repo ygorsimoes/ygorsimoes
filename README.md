@@ -5,7 +5,6 @@
 <div align="left">
     <li>⚙️ Graduating in Computer Engineering at UEMG</li>
     <li>🍺 I convert coffee and beer into code most of the time</li>
-    <li>🖥️ I'm specializing in the .NET stack (C #, ASP.NET, Azure)</li>
     <li>🧠 I develop software focused on Information Security</lib>
 </div>
 
