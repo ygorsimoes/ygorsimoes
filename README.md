@@ -1,5 +1,6 @@
-<!-- <img src="https://i.imgur.com/y3L1nC9.gif" width="100%"/> -->
+<img src="https://i.imgur.com/y3L1nC9.gif" width="100%"/>
 
+<!--
 <h1 align="center">“Talk is cheap. Show me the code.”</h1>
 
 <div align="left">
