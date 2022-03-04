@@ -18,7 +18,7 @@
   <img height="180em" alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorsimoes&hide=html,js,css&layout=compact&theme=tokyonight"/>
 </div>
 
-<h2>💻 Things I code with</h2>
+<h2>Things I code with</h2>
 <div align="left">
   <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/></a>
@@ -27,7 +27,7 @@
   <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
 </div>
 
-<h2>✨ Other skills</h2>
+<h2>Other skills</h2>
 <div align="left">
   <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></a>
   <a href="https://www.arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/></a>
