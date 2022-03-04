@@ -1,4 +1,4 @@
-<h3>Wi there, I'm Ygor Simões 🖖</h3>
+<h3>Hi there, I'm Ygor Simões 🖖</h3>
 
 <div align="center">
   <img src="https://i.imgur.com/qMQiDSH.gifg" width="100%"/>
