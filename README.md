@@ -23,7 +23,7 @@ root@localhost # <strong>finger ygorsimoes</strong>
 Login: ygorsimoes                       Name: Ygor Simões
 Directory: /home/ygorsimoes             Shell: /usr/bin/zsh
 Project:
-  - Developing in full swing: <a href="https://github.com/AngraTeam/Dionisio">Dionisio (repository)</a>
+  - Developing now: <a href="https://github.com/AngraTeam/Dionisio">Dionisio (repository)</a>
   - Studying more and more the Go language and the world of Information Security
   - Working on writing tests for my main repositories
 Plan:
