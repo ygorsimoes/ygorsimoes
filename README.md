@@ -1,6 +1,5 @@
 ```console
 root@localhost # cat hello.txt
-
     ___       ___            ___       ___       ___       ___       ___   
    /\__\     /\  \          /\  \     /\__\     /\  \     /\  \     /\  \  
   /:/__/_   _\:\  \         \:\  \   /:/__/_   /::\  \   /::\  \   /::\  \ 
@@ -10,7 +9,6 @@ root@localhost # cat hello.txt
    \/__/     \/__/                    \/__/     \/__/     \|__|     \/__/   
 
 root@localhost # cat note.txt
-
 1. It takes me a while to respond depending on the time, 
    but you can contact me through my twitter.com/ygorsimoesme 
    or via mailto:ygorsimoes@hotmail.com.
@@ -20,7 +18,6 @@ root@localhost # cat note.txt
 5. Yes, I'd like a cup of coffee, thanks.
 
 root@localhost # finger ygorsimoes
-
 Login: ygorsimoes                       Name: Ygor Simões
 Directory: /home/ygorsimoes             Shell: /usr/bin/zsh
 Project:
