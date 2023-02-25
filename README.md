@@ -12,7 +12,8 @@ root@localhost # cat hello.txt
 root@localhost # cat note.txt
 
 1. It takes me a while to respond depending on the time, 
-   but you can contact me through my twitter.com/ygorsimoesme or via mailto:ygorsimoes@hotmail.com.
+   but you can contact me through my twitter.com/ygorsimoesme 
+   or via mailto:ygorsimoes@hotmail.com.
 2. I develop software in Java and Go focused on Cybersecurity.
 3. I will probably never stop studying the Information Security area in depth.
 4. Arch Linux is my religion.
