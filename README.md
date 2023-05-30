@@ -23,7 +23,7 @@ Directory: /home/ygorsimoes             Shell: /usr/bin/zsh
 Project:
   - Study the entire Java and Kotlin ecosystem.
   - Work on writing tests for my main repositories.
-Flat:
+Plan:
   - Finish my software project focused on forensic analysis.
   - Be a reference in what I do.
 ```
