@@ -21,10 +21,9 @@ root@localhost # finger ygorsimoes
 Login: ygorsimoes                       Name: Ygor Simões
 Directory: /home/ygorsimoes             Shell: /usr/bin/zsh
 Project:
-  - Studying the entire Java ecosystem.
-  - Working on writing tests for my main repositories.
-Plan:
+  - Study the entire Java and Kotlin ecosystem.
+  - Work on writing tests for my main repositories.
+Flat:
   - Finish my software project focused on forensic analysis.
-  - Being able to stay focused in the gym.
   - Be a reference in what I do.
 ```
