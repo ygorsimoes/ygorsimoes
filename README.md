@@ -9,21 +9,19 @@ root@localhost # cat hello.txt
    \/__/     \/__/                    \/__/     \/__/     \|__|     \/__/   
 
 root@localhost # cat note.txt
-1. It takes me a while to respond depending on the time, 
-   but you can contact me through my twitter.com/ygorsimoesme 
-   or via mailto:ygorsimoes@hotmail.com.
-2. I develop software in Java and Go focused on Cybersecurity.
-3. I will probably never stop studying the Information Security area in depth.
-4. Arch Linux is my religion.
-5. Yes, I'd like a cup of coffee, thanks.
+1. It takes me a while to answer depending on the time of day, but you can contact me
+    through my email ygorsimoes@hotmail.com or via twitter.com/ygorsimoesme.
+2. I develop software in Java, Kotlin and Clojure, usually with a focus on Cybersecurity.
+3. I can't survive away from Arch Linux.
+4. Yes, I would like a cup of coffee, thank you.
 
 root@localhost # finger ygorsimoes
 Login: ygorsimoes                       Name: Ygor Simões
 Directory: /home/ygorsimoes             Shell: /usr/bin/zsh
 Project:
-  - Study the entire Java and Kotlin ecosystem.
-  - Work on writing tests for my main repositories.
+  - Finalize a personal forensic analysis project
+  - Start a new version of the "learning" repositories
 Plan:
-  - Finish my software project focused on forensic analysis.
-  - Be a reference in what I do.
+  - Specialize each day more in the JVM ecosystem
+  - Study Functional Programming with Clojure
 ```
