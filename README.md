@@ -13,15 +13,13 @@ root@localhost # cat note.txt
     through my email ygorsimoes@hotmail.com or via twitter.com/ygorsimoesme.
 2. I'm passionate about Cybersecurity, Rust and everything that runs on the JVM.
 3. I can't survive away from Arch Linux.
-4. Yes, I would like a cup of coffee, thank you.
 
 root@localhost # finger ygorsimoes
 Login: ygorsimoes                       Name: Ygor Simões
 Directory: /home/ygorsimoes             Shell: /usr/bin/zsh
 Project:
-  - Master Rust, Clojure and Functional Programming
+  - Master Rust, JVM and Functional Programming
   - Contribute more to open-source projects
 Plan:
-  - To be rich and successful in life
   - Be the best version of myself
 ```
