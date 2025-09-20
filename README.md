@@ -1,4 +1,4 @@
-```console
+```zsh
 root@localhost # cat hello.txt
     ___       ___            ___       ___       ___       ___       ___   
    /\__\     /\  \          /\  \     /\__\     /\  \     /\  \     /\  \  
@@ -8,18 +8,16 @@ root@localhost # cat hello.txt
    /:/  /   \:\__\         \/__/      /:/  /   \:\/  /   |:\/__/   \:\/  /   
    \/__/     \/__/                    \/__/     \/__/     \|__|     \/__/   
 
-root@localhost # cat note.txt
-1. It takes me a while to answer depending on the time of day, but you can contact me
-    through my email ygorsimoes@hotmail.com or via twitter.com/ygorsimoesme.
-2. I'm passionate about Cybersecurity, Rust and everything that runs on the JVM.
-3. I can't survive away from Arch Linux.
+root@localhost $ cat note.txt
+  1. It may take a while to respond, depending on the time of day, but you can contact me at x.com/ygorsimoesme
+  2. I'm passionate about cybersecurity, Clojure, and everything that runs on the JVM.
 
-root@localhost # finger ygorsimoes
-Login: ygorsimoes                       Name: Ygor Simões
-Directory: /home/ygorsimoes             Shell: /usr/bin/zsh
+root@localhost $ finger ygorsimoes
+Login: ygorsimoes                 Name: Ygor Simões
+Directory: /home/ygorsimoes       Shell: /usr/bin/zsh
 Project:
-  - Master Rust, JVM and Functional Programming
-  - Contribute more to open-source projects
+  - Creating some libraries and "attempted frameworks" for the Clojure ecosystem
 Plan:
-  - Be the best version of myself
+  - Master the JVM and functional programming
+  - Contribute more to open source projects
 ```
