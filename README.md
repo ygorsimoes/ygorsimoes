@@ -1,5 +1,5 @@
 ```console
-root@localhost # cat hello.txt
+root@localhost $ cat say.txt
     ___       ___            ___       ___       ___       ___       ___   
    /\__\     /\  \          /\  \     /\__\     /\  \     /\  \     /\  \  
   /:/__/_   _\:\  \         \:\  \   /:/__/_   /::\  \   /::\  \   /::\  \ 
@@ -18,7 +18,8 @@ root@localhost $ finger ygorsimoes
 Login: ygorsimoes                 Name: Ygor Simões
 Directory: /home/ygorsimoes       Shell: /usr/bin/zsh
 Project:
-  - Creating some libraries and "attempted frameworks" for the Clojure ecosystem
+  - Creating some libraries and "attempted frameworks" 
+      for the Clojure ecosystem
 Plan:
   - Master the JVM and functional programming
   - Contribute more to open source projects
